@@ -2,5 +2,5 @@ var h1 = document.querySelector('H1');
 
 h1.addEventListener('click', function(e){
 
-    alert('Bem Vindo');
+    alert('Em breve terá algo aqui!! =)');
 })
